@@ -1,0 +1,1 @@
+I focused on showcasing all that I have learned in the introduction module for the Odin Project. Specifically the HTML portion, where I added a home page wiht links to 3 detailed recipe pages that have ingredients, steps as well as a title and a picture. Additionally there is functionality to go back to the home page from each recipe page.
